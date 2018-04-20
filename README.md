@@ -7,7 +7,10 @@
 
 
 ## Installation
-npm i gap_project
+* npm i gap_project
+
+## NPM URL
+https://npm.runkit.com/gap_project
 
 ## Usage
  * var test = require('gap_project');
@@ -16,4 +19,5 @@ npm i gap_project
   
   
 ## Output should be 
-pleasecleanme
+* pleasecleanme
+
