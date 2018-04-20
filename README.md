@@ -42,3 +42,8 @@
     Responsive Nav with 4 items (e.g. 'nav A')
     Has 'on', 'off' & hover states
     'on' states will show sub nav with 4 items: (e.g. 'subnav A 1' - indicate it belongs to that nav) 
+    
+
+## Usage
+
+   https://htmlpreview.github.io/?https://github.com/gingermarieneece/gap_codeExercise/blob/master/index.html#
