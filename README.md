@@ -21,7 +21,7 @@
 ## Usage
 
    
-   <a href="https://npm.runkit.com/gap_project" target="blank">https://npm.runkit.com/gap_project</a>
+   <a href="https://npm.runkit.com/gap_project" target="_blank">https://npm.runkit.com/gap_project</a>
 
     var gapProject = require("gap_project")
 
