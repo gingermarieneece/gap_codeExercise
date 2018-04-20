@@ -47,3 +47,7 @@
 ## Usage
 
    https://htmlpreview.github.io/?https://github.com/gingermarieneece/gap_codeExercise/blob/master/index.html#
+   
+## Output should be 
+   
+   ![ScreenShot](https://github.com/gingermarieneece/gap_codeExercise/blob/master/responsiveNavImg.jpg)
