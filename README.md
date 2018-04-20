@@ -22,8 +22,6 @@
 
    https://npm.runkit.com/gap_project
 
-    var gapProject = require("gap_project")
-
     var testMessage = gapProject.getCleanString('PLEASE CLEAN ME', true);
 
   
